@@ -1,4 +1,4 @@
-Currently working on @Risk_the_Game.
+Currently working on Risk_the_game.
 Working and learning Python, tkinter, git.
 I like eating 🍉 - In Polish 'arbuz'
 

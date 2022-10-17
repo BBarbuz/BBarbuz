@@ -1,5 +1,5 @@
-Currently working on Risk_the_game.
-Working and learning Python, tkinter, git.
+Currently working on simpleLibraryJavaImplementation, my new repo.
+Working and learning Java, git.
 I like eating 🍉 - In Polish 'arbuz'
 
 

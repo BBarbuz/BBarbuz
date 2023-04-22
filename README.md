@@ -1,5 +1,5 @@
-Currently working on simpleLibraryJavaImplementation, my new repo.
-Working and learning Java, git.
+Recently working on Low_level_algorithms, my new repo.
+Working and learning C++, git.
 I like eating 🍉 - In Polish 'arbuz'
 
 

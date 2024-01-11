@@ -1,5 +1,5 @@
-Recently working on Low_level_algorithms, my new repo.
-Working and learning C++, git.
+Recently working on JavaBasicOperations, my new repo.
+I'm learning java for my college course: object-oriented programming in java
 I like eating 🍉 - In Polish 'arbuz'
 
 

@@ -1,5 +1,4 @@
-Recently working on JavaBasicOperations, my new repo.
-I'm learning java for my college course: object-oriented programming in java
+I'm currently learning JS and preparing to learn React for my next big project.
 I like eating 🍉 - In Polish 'arbuz'
 
 

@@ -1,5 +1,5 @@
-I'm currently learning JS and preparing to learn React for my next big project.
-I like eating 🍉 - In Polish 'arbuz'
+Currently working on working on my engineering thesis Proxmox Cluster.
+I like 🍉 - In Polish 'arbuz'
 
 
 <!---

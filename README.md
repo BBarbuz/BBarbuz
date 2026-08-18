@@ -1,4 +1,3 @@
-Currently working on working on my engineering thesis Proxmox Cluster.
 I like 🍉 - In Polish 'arbuz'
 
 
